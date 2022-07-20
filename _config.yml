@@ -4,12 +4,10 @@ email: ""
 description: "Art Portfolio"
 url: "https://keeksaart.github.io"
 baseurl: "/portfolio"
-facebook_username: ""
-twitter_username: ""
 instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
+twitter_username: ""
+tiktok_username: ""
+artstation_username:  ""
 share: true
 
 # Owner/author information
