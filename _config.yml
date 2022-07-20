@@ -1,7 +1,7 @@
 # Site settings
-title: PHOTORAMA
+title: Portfolio
 email: ""
-description: "Photo Journal"
+description: "Art Portfolio"
 url: "https://keeksaart.github.io"
 baseurl: "/portfolio"
 facebook_username: ""
@@ -10,12 +10,11 @@ instagram_username: ""
 github_username:  ""
 deviantart_username: ""
 flickr_username: ""
-discus_shortname: ""
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Portfolio
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
