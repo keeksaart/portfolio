@@ -1,13 +1,13 @@
 # Site settings
 title: Portfolio
-email: ""
+email: "alishajiwa7@gmail.com"
 description: "Art Portfolio"
 url: "https://keeksaart.github.io"
 baseurl: "/portfolio"
-instagram_username: ""
+instagram_username: "keeksaart"
 twitter_username: ""
-tiktok_username: ""
-artstation_username:  ""
+tiktok_username: "keekadoingart"
+artstation_username:  "a_jiwa"
 share: true
 
 # Owner/author information
