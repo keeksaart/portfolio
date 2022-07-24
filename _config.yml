@@ -4,10 +4,10 @@ email: "alishajiwa7@gmail.com"
 description: "Art Portfolio"
 url: "https://keeksaart.github.io"
 baseurl: "/portfolio"
-instagram_username: "https://www.instagram.com/keeksaart"
-twitter_username: ""
-tiktok_username: "keekadoingart"
-artstation_username:  "a_jiwa"
+instagram_username: "instagram_keeksaart"
+twitter_username: "twitter_KeeksaArt"
+tiktok_username: "tiktok_keekadoingart"
+artstation_username:  "artstation_a_jiwa"
 share: true
 
 # Owner/author information
